@@ -1,6 +1,5 @@
 # Crimes-analysis-Project
 #### Crimes analysis project from 2021 to 2023, to determine the most dangerous months of the year, most prevalent types of crimes in the study areas, and most dangerous time for crimes.
-## table of contents
 
 ## table of contents
 - [project Overview](#project-overview)
@@ -18,12 +17,17 @@
 ## Project Overview
 
  This project aims to create a clear crime analysis dashboard that highlights crime patterns over time, by location, and by age group. It will help us understand when and where crimes are most common, identify the most dangerous times and groups, and provide insights to support better safety measures. Ultimately, it’s about turning data into actionable information to improve community safety.
+ 
+![Dashboard](crimes Dashboard.pdf)
 
+ [Uploading Crimes Dashboard.pdf…]()
+ [Crimes Dashboard.pdf](https://github.com/user-attachments/files/21519161/Crimes.Dashboard.pdf)
 ### Data Sources
 
 Crime Data: The primary dataset used in the analysis is a "crime_data.csv" file containing detailed information about all crimes recorded from 2021 to 2023.
 
-### Tools 
+### Tools
+
 - Excel: Power Query for Data Cleansing
   -[download here](http://micrsoft.com)
 - Excel: create an interactive Dashboard
